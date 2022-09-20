@@ -56,15 +56,12 @@ const App = () => {
         </Canvas>
       </Grayscale>
       <div className="frame">
-      <a aria-label="Home" className="frame__title" href="http://tympanus.net/Tutorials/PhysicsMenu/">
-            <object data="top.svg" width="100" height="100"> </object>
-      </a>
         <div className="frame__links">
-          <a className="frame__link" href="http://tympanus.net/Tutorials/PhysicsMenu/">
-            Work
+          <a className="frame__link" href="wwww.wikipedia.com">
+            Wikipedia
           </a>
-          <a className="frame__link" href="https://tympanus.net/codrops/?p=45441">
-            About
+          <a className="frame__link" href="www.youtube.com">
+            YouTube
           </a>
         </div>
       </div>
